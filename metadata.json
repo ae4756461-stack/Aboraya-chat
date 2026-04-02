@@ -1,0 +1,8 @@
+{
+  "name": "aBoRaYa chat",
+  "description": "Interactive map-based chatbot that uses real-time Google Maps and Search data to answer location-specific questions.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
